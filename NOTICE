@@ -1,0 +1,18 @@
+NovaNODE - Web Content Extraction Tool
+Copyright 2025 Himokai | Kairis
+
+This product includes software developed by
+Himokai (https://github.com/Himo-kai/).
+
+This software includes the following third-party components:
+
+puppeteer - Copyright Google Inc. - Apache License 2.0
+puppeteer-extra - Copyright Berstend - MIT License
+puppeteer-extra-plugin-stealth - Copyright Berstend - MIT License
+cheerio - Copyright Cheerio contributors - MIT License
+fs-extra (fs/promises) - Copyright JP Richardson - MIT License
+path (Node.js core) - Copyright OpenJS Foundation - MIT License
+nx - Copyright Nrwl - MIT License
+jest - Copyright Facebook, Inc. - MIT License
+jest-puppeteer - Copyright Smooth Code - MIT License
+typescript - Copyright Microsoft Corporation - Apache License 2.0
