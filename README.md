@@ -1,2 +1,3 @@
-# NovaNODE
-A tool for basic HTML scraping needs, Stream-lined into information effiecent for AI assistance.
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
